@@ -20,3 +20,5 @@ And flush the cache:
 # Proof of concept
 After installing the module, the main container should contain a box that is updated via the JS component,
 displaying the text from the Block class.
+
+Optionally switch between the PHTML templates by modifying the Block class `$_template` variable.
